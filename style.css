@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Mainbody{
+    height: 600px;
+    width: 1375px;
+    text-align:center;
+    padding-top: 50px;
+    background-image: url(car.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+padding-top:20px ;
+font-weight: bold;
+font-size: 48px;
+color:rgb(94, 248, 5);
+}
+h2{
+    color: rgb(247, 7, 195);
+    padding-top: 10px;
+    font-weight: bold;
+}
+.contactheading{
+    text-align: center;
+    background-image: url(jubali.jpg.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1375px 1000px;
+    height: 700px;
+}
+p{
+    padding-top:30px ;
+    color: rgb(172, 4, 250);
+    font-weight: bold;
+    font-size: 30px;
+}
+.serviceBody{
+    background-image: url(caroil.jpg);
+    background-repeat: no-repeat;
+    background-size: 1375px 1000px;
+    text-align: center;
+    height: 700px;
+}
+.about{
+    text-align: center;
+}
+button{
+    margin-left: 50%;
+}
